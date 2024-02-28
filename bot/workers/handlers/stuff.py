@@ -172,11 +172,11 @@ async def beck(event):
             [
                 Button.url(
                     "Owner",
-                    url="https://t.me/Its_Abdullaah",
+                    url="t.me/Its_Abdullaah",
                 ),
-                Button.url("Developer", url="https://t.me/Orewa_Noman"),
+                Button.url("Developer", url="t.me/Orewa_Noman"),
             ],
-            [Button.url("Maintained By", url="https://t.me/TeamMayhem")],
+            [Button.url("Maintained By", url="t.me/TeamMayhem")],
         ],
     )
 
@@ -323,6 +323,8 @@ logs{s} - get bot logs
 help{s} - same as start`
 
 All above commands accept '-h' / '--help' arguments to get more detailed help about each command.
+
+Developed by @Orewa_Noman
         """,
         buttons=[Button.inline("🔙 Back", data="ihelp")],
     )
