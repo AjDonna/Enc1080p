@@ -171,12 +171,12 @@ async def beck(event):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "Owner",
+                    url="https://t.me/Its_Abdullaah",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("Developer", url="https://t.me/Orewa_Noman"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("Maintained By", url="https://t.me/TeamMayhem")],
         ],
     )
 
