@@ -2,8 +2,7 @@
 
 __Still in beta…__
 
- **Developed by**
-
+ **Developed By**
 ___[Its Abdullah](t.me/Its_Abdullaah) For [Team Mayhem](t.me/teammayhem)___
 
 ---
