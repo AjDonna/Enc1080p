@@ -1,12 +1,10 @@
-# [ENC]
-
-[![pyLint](https://github.com/Nubuki-all/Tg-encoder/actions/workflows/pyLint.yml/badge.svg?branch=main)](https://github.com/Nubuki-all/Tg-encoder/actions/workflows/pyLint.yml)
+# Telegram Video Encoder Bot
 
 __Still in beta…__
 
-### Variables
+### Developed by
 
-___(For local/vps deployment rename [.env.sample](.env.sample) to .env and edit with your variable)___
+___[Team Mayhem][t.me/teammayhem]___
 (list of available variables isn't complete.)
 ---
 Compulsory Variables | Explanation
