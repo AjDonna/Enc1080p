@@ -4,7 +4,7 @@ __Still in beta…__
 
 ### Developed by
 
-___[Team Mayhem][t.me/teammayhem]___
+___[Team Mayhem](t.me/teammayhem)___
 (list of available variables isn't complete.)
 ---
 Compulsory Variables | Explanation
