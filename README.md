@@ -4,8 +4,7 @@ __Still in beta…__
 
 ### Developed by
 
-___[Team Mayhem](t.me/teammayhem)___
-(list of available variables isn't complete.)
+___[Its Abdullah](t.me/Its_Abdullaah) For [Team Mayhem](t.me/teammayhem)___
 ---
 Compulsory Variables | Explanation
 :--------- | :---------------------------------------------
@@ -85,7 +84,3 @@ help - same as start
 
 ### Features:
 __(Coming Soon)__
-
-### Source 
-
-- **[An Heavily Modified Fork of Danish CompressorQueue](https://github.com/1Danish-00/CompressorQueue)**
