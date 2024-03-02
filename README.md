@@ -2,9 +2,10 @@
 
 __Still in beta…__
 
-### Developed by
+ **Developed by**
 
 ___[Its Abdullah](t.me/Its_Abdullaah) For [Team Mayhem](t.me/teammayhem)___
+
 ---
 Compulsory Variables | Explanation
 :--------- | :---------------------------------------------
