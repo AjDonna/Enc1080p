@@ -6,6 +6,20 @@ __Still in beta…🤧__
 **Developed By** 
 ___[Its Abdullah](t.me/Its_Abdullaah) For [Team Mayhem](t.me/teammayhem)___
 
+
+<!DOCTYPE html>
+<html>
+<body>
+  <div class="center-content">
+    <a
+    href="https://heroku.com/deploy?template=https://github.com/abdullah001111/Fast-Encoder-480p">
+      <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+    </a>
+  </div>
+</body>
+</html>
+
+
 ---
 Compulsory Variables | Explanation
 :--------- | :---------------------------------------------
